@@ -2,6 +2,4 @@ My Project
 
 
 
-
-
-add another line.
+all rights reserved.
